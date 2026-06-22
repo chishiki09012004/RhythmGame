@@ -312,12 +312,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   musicSource: {fileID: 561779487}
-  perfectClip: {fileID: 8300000, guid: f806ca08bea9d424b9dec4d0a7c60f1a, type: 3}
-  greatClip: {fileID: 8300000, guid: f806ca08bea9d424b9dec4d0a7c60f1a, type: 3}
-  goodClip: {fileID: 8300000, guid: f806ca08bea9d424b9dec4d0a7c60f1a, type: 3}
-  missClip: {fileID: 8300000, guid: f806ca08bea9d424b9dec4d0a7c60f1a, type: 3}
-  comboClip: {fileID: 8300000, guid: f806ca08bea9d424b9dec4d0a7c60f1a, type: 3}
-  menuClickClip: {fileID: 8300000, guid: f806ca08bea9d424b9dec4d0a7c60f1a, type: 3}
+  perfectClip: {fileID: 8300000, guid: 16a83e6c58a41994493a4461481e4c2c, type: 3}
+  greatClip: {fileID: 8300000, guid: 16a83e6c58a41994493a4461481e4c2c, type: 3}
+  goodClip: {fileID: 8300000, guid: 16a83e6c58a41994493a4461481e4c2c, type: 3}
+  missClip: {fileID: 8300000, guid: 16a83e6c58a41994493a4461481e4c2c, type: 3}
+  comboClip: {fileID: 8300000, guid: 16a83e6c58a41994493a4461481e4c2c, type: 3}
+  menuClickClip: {fileID: 8300000, guid: 16a83e6c58a41994493a4461481e4c2c, type: 3}
   sfxPrefab: {fileID: 561779487}
   poolSize: 15
   masterVolume: 1
